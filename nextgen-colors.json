@@ -1,0 +1,357 @@
+{
+  "BrandPrimary": "#FF911B",
+  "BrandPrimary100": "#FFF3E5",
+  "BrandPrimary200": "#FFE6CC",
+  "BrandPrimary300": "#FFCE99",
+  "BrandPrimary500": "#CC6A00",
+  "BrandPrimary700": "#663500",
+  "BrandPrimary900": "#663500",
+  "Primary": "#2B317E",
+  "PrimaryDark": "#262C72",
+  "PrimaryDarkText": "#FFFFFF",
+  "Secondary": "#2B007E",
+  "SecondaryDark": "#340099",
+  "SecondaryDarkText": "#FFFFFF",
+  "Tertiary": "#153100",
+  "TertiaryDark": "#419900",
+  "LabelText": "#190649",
+  "LabelDarkText": "#FFFFFF",
+  "ScreenBackground": "#FFFFFF",
+  "ScreenBackgroundDark": "#1C2833",
+  "Critical": "#A61D24",
+  "Caution": "#AE7A14",
+  "Positive": "#3C8618",
+  "Informative": "#0936D8",
+  "Neutral": "#737373",
+  "White": "White",
+  "Transparent": "Transparent",
+  "Black": "Black",
+  "Primary100": "#EBECF8",
+  "Primary200": "#D8DAF2",
+  "Primary300": "#B2B6E5",
+  "Primary400": "#8C92D8",
+  "Primary500": "#2B317E",
+  "Primary600": "#333B98",
+  "Primary700": "#262C72",
+  "Primary800": "#191D4C",
+  "Primary900": "#0C0E26",
+  "Secondary100": "#EEE5FF",
+  "Secondary200": "#DDCBFF",
+  "Secondary300": "#BB99FE",
+  "Secondary400": "#9A65FF",
+  "Secondary500": "#2B007E",
+  "Secondary600": "#4500CC",
+  "Secondary700": "#340099",
+  "Secondary800": "#220066",
+  "Secondary900": "#110033",
+  "Tertiary100": "#F0FFE5",
+  "Tertiary200": "#E1FFCB",
+  "Tertiary300": "#C4FE99",
+  "Tertiary400": "#A7FF65",
+  "Tertiary500": "#153100",
+  "Tertiary600": "#57CC00",
+  "Tertiary700": "#419900",
+  "Tertiary800": "#2B6600",
+  "Tertiary900": "#153300",
+  "Critical25": "#FEF2F1",
+  "Critical50": "#FAC8C3",
+  "Critical100": "#F89F9A",
+  "Critical200": "#F37370",
+  "Critical300": "#E84749",
+  "Critical400": "#C0262E",
+  "Critical500": "#A61D24",
+  "Critical600": "#791A1F",
+  "Critical700": "#58181C",
+  "Critical800": "#431418",
+  "Critical900": "#2A1215",
+  "Caution25": "#FCF5D4",
+  "Caution50": "#FAEDB5",
+  "Caution100": "#F8DF8B",
+  "Caution200": "#F3CC62",
+  "Caution300": "#E8B339",
+  "Caution400": "#CD8F13",
+  "Caution500": "#AD7914",
+  "Caution600": "#725212",
+  "Caution700": "#574114",
+  "Caution800": "#443111",
+  "Caution900": "#2B2111",
+  "Positive25": "#E7F8D8",
+  "Positive50": "#D5F2BB",
+  "Positive100": "#B2E58B",
+  "Positive200": "#8FD460",
+  "Positive300": "#6ABE39",
+  "Positive400": "#49AA19",
+  "Positive500": "#3C8618",
+  "Positive600": "#306317",
+  "Positive700": "#274916",
+  "Positive800": "#1D3712",
+  "Positive900": "#162312",
+  "Informative25": "#F0F3FE",
+  "Informative50": "#D8E0FD",
+  "Informative100": "#B1C1FC",
+  "Informative200": "#89A2FA",
+  "Informative300": "#587BF8",
+  "Informative400": "#2251F6",
+  "Informative500": "#0936D8",
+  "Informative600": "#072AA7",
+  "Informative700": "#051F7B",
+  "Informative800": "#031553",
+  "Informative900": "#020B2C",
+  "Neutral25": "#FAFAFA",
+  "Neutral50": "#EDEDED",
+  "Neutral100": "#E4E4E4",
+  "Neutral200": "#D9D9D9",
+  "Neutral300": "#BDBDBD",
+  "Neutral400": "#9E9E9E",
+  "Neutral500": "#737373",
+  "Neutral600": "#616161",
+  "Neutral700": "#424242",
+  "Neutral800": "#212121",
+  "Neutral900": "#141414",
+  "WhiteBrush": {
+    "Color": "{StaticResource White}"
+  },
+  "BlackBrush": {
+    "Color": "{StaticResource Black}"
+  },
+  "PrimaryBrush": {
+    "Color": "{StaticResource Primary}"
+  },
+  "SecondaryBrush": {
+    "Color": "{StaticResource Secondary}"
+  },
+  "TertiaryBrush": {
+    "Color": "{StaticResource Tertiary}"
+  },
+  "CriticalBrush": {
+    "Color": "{StaticResource Critical}"
+  },
+  "CautionBrush": {
+    "Color": "{StaticResource Caution}"
+  },
+  "PositiveBrush": {
+    "Color": "{StaticResource Positive}"
+  },
+  "InformativeBrush": {
+    "Color": "{StaticResource Informative}"
+  },
+  "NeutralBrush": {
+    "Color": "{StaticResource Neutral}"
+  },
+  "Primary100Brush": {
+    "Color": "{StaticResource Primary100}"
+  },
+  "Primary200Brush": {
+    "Color": "{StaticResource Primary200}"
+  },
+  "Primary300Brush": {
+    "Color": "{StaticResource Primary300}"
+  },
+  "Primary400Brush": {
+    "Color": "{StaticResource Primary400}"
+  },
+  "Primary500Brush": {
+    "Color": "{StaticResource Primary500}"
+  },
+  "Primary600Brush": {
+    "Color": "{StaticResource Primary600}"
+  },
+  "Primary700Brush": {
+    "Color": "{StaticResource Primary700}"
+  },
+  "Primary800Brush": {
+    "Color": "{StaticResource Primary800}"
+  },
+  "Primary900Brush": {
+    "Color": "{StaticResource Primary900}"
+  },
+  "Secondary100Brush": {
+    "Color": "{StaticResource Secondary100}"
+  },
+  "Secondary200Brush": {
+    "Color": "{StaticResource Secondary200}"
+  },
+  "Secondary300Brush": {
+    "Color": "{StaticResource Secondary300}"
+  },
+  "Secondary400Brush": {
+    "Color": "{StaticResource Secondary400}"
+  },
+  "Secondary500Brush": {
+    "Color": "{StaticResource Secondary500}"
+  },
+  "Secondary600Brush": {
+    "Color": "{StaticResource Secondary600}"
+  },
+  "Secondary700Brush": {
+    "Color": "{StaticResource Secondary700}"
+  },
+  "Secondary800Brush": {
+    "Color": "{StaticResource Secondary800}"
+  },
+  "Secondary900Brush": {
+    "Color": "{StaticResource Secondary900}"
+  },
+  "Tertiary100Brush": {
+    "Color": "{StaticResource Tertiary100}"
+  },
+  "Tertiary200Brush": {
+    "Color": "{StaticResource Tertiary200}"
+  },
+  "Tertiary300Brush": {
+    "Color": "{StaticResource Tertiary300}"
+  },
+  "Tertiary400Brush": {
+    "Color": "{StaticResource Tertiary400}"
+  },
+  "Tertiary500Brush": {
+    "Color": "{StaticResource Tertiary500}"
+  },
+  "Tertiary600Brush": {
+    "Color": "{StaticResource Tertiary600}"
+  },
+  "Tertiary700Brush": {
+    "Color": "{StaticResource Tertiary700}"
+  },
+  "Tertiary800Brush": {
+    "Color": "{StaticResource Tertiary800}"
+  },
+  "Tertiary900Brush": {
+    "Color": "{StaticResource Tertiary900}"
+  },
+  "Critical100Brush": {
+    "Color": "{StaticResource Critical100}"
+  },
+  "Critical200Brush": {
+    "Color": "{StaticResource Critical200}"
+  },
+  "Critical300Brush": {
+    "Color": "{StaticResource Critical300}"
+  },
+  "Critical400Brush": {
+    "Color": "{StaticResource Critical400}"
+  },
+  "Critical500Brush": {
+    "Color": "{StaticResource Critical500}"
+  },
+  "Critical600Brush": {
+    "Color": "{StaticResource Critical600}"
+  },
+  "Critical700Brush": {
+    "Color": "{StaticResource Critical700}"
+  },
+  "Critical800Brush": {
+    "Color": "{StaticResource Critical800}"
+  },
+  "Critical900Brush": {
+    "Color": "{StaticResource Critical900}"
+  },
+  "Caution100Brush": {
+    "Color": "{StaticResource Caution100}"
+  },
+  "Caution200Brush": {
+    "Color": "{StaticResource Caution200}"
+  },
+  "Caution300Brush": {
+    "Color": "{StaticResource Caution300}"
+  },
+  "Caution400Brush": {
+    "Color": "{StaticResource Caution400}"
+  },
+  "Caution500Brush": {
+    "Color": "{StaticResource Caution500}"
+  },
+  "Caution600Brush": {
+    "Color": "{StaticResource Caution600}"
+  },
+  "Caution700Brush": {
+    "Color": "{StaticResource Caution700}"
+  },
+  "Caution800Brush": {
+    "Color": "{StaticResource Caution800}"
+  },
+  "Caution900Brush": {
+    "Color": "{StaticResource Caution900}"
+  },
+  "Positive100Brush": {
+    "Color": "{StaticResource Positive100}"
+  },
+  "Positive200Brush": {
+    "Color": "{StaticResource Positive200}"
+  },
+  "Positive300Brush": {
+    "Color": "{StaticResource Positive300}"
+  },
+  "Positive400Brush": {
+    "Color": "{StaticResource Positive400}"
+  },
+  "Positive500Brush": {
+    "Color": "{StaticResource Positive500}"
+  },
+  "Positive600Brush": {
+    "Color": "{StaticResource Positive600}"
+  },
+  "Positive700Brush": {
+    "Color": "{StaticResource Positive700}"
+  },
+  "Positive800Brush": {
+    "Color": "{StaticResource Positive800}"
+  },
+  "Positive900Brush": {
+    "Color": "{StaticResource Positive900}"
+  },
+  "Informative100Brush": {
+    "Color": "{StaticResource Informative100}"
+  },
+  "Informative200Brush": {
+    "Color": "{StaticResource Informative200}"
+  },
+  "Informative300Brush": {
+    "Color": "{StaticResource Informative300}"
+  },
+  "Informative400Brush": {
+    "Color": "{StaticResource Informative400}"
+  },
+  "Informative500Brush": {
+    "Color": "{StaticResource Informative500}"
+  },
+  "Informative600Brush": {
+    "Color": "{StaticResource Informative600}"
+  },
+  "Informative700Brush": {
+    "Color": "{StaticResource Informative700}"
+  },
+  "Informative800Brush": {
+    "Color": "{StaticResource Informative800}"
+  },
+  "Informative900Brush": {
+    "Color": "{StaticResource Informative900}"
+  },
+  "Neutral100Brush": {
+    "Color": "{StaticResource Neutral100}"
+  },
+  "Neutral200Brush": {
+    "Color": "{StaticResource Neutral200}"
+  },
+  "Neutral300Brush": {
+    "Color": "{StaticResource Neutral300}"
+  },
+  "Neutral400Brush": {
+    "Color": "{StaticResource Neutral400}"
+  },
+  "Neutral500Brush": {
+    "Color": "{StaticResource Neutral500}"
+  },
+  "Neutral600Brush": {
+    "Color": "{StaticResource Neutral600}"
+  },
+  "Neutral700Brush": {
+    "Color": "{StaticResource Neutral700}"
+  },
+  "Neutral800Brush": {
+    "Color": "{StaticResource Neutral800}"
+  },
+  "Neutral900Brush": {
+    "Color": "{StaticResource Neutral900}"
+  }
+}
